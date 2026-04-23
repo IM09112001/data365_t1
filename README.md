@@ -2,6 +2,7 @@
 
 Finance tracking for logistics teams — log transactions via Telegram, review them on the web.
 
+TangaFlow is built for logistics coordinators and field drivers at small freight companies in Central Asia who currently track finances in WhatsApp chats or paper. The problem is simple: money moves fast on the road, but recording it is slow and error-prone when it requires opening a spreadsheet. TangaFlow puts the entry point inside Telegram — where the team already works — so logging a fuel expense takes one sentence instead of three steps. A v2 would add per-company authentication, budget alerts fired directly into Telegram when a category overspends, and a mobile-friendly driver view showing only their own transactions.
 ---
 
 ## What It Does
